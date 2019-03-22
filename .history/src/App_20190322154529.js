@@ -10,8 +10,9 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <p>
            Hi Harendranath.vegi , AssociateConsultant , , Reactjs Specialist 
-            AssociateConsultant
-          
+           Harendranath.vegi
+           AssociateConsultant
+           ng7vhn@gmail.Com
           </p>
           <a
             className="App-link"
@@ -19,7 +20,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn Here:
+            Learn Here
           </a>
         </header>
       </div>

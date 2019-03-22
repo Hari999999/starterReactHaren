@@ -10,7 +10,8 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <p>
            Hi Harendranath.vegi , AssociateConsultant , , Reactjs Specialist 
-            AssociateConsultant
+           Harendranath.vegi
+           AssociateConsultant
           
           </p>
           <a
